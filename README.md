@@ -1,7 +1,5 @@
 ### Hi there, I'm Aryaman Agarwal 👋
 
-[![Linkedin](https://www.linkedin.com/in/aryaman-agarwal]()
-
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
