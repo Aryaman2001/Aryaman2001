@@ -1,6 +1,6 @@
 ### Hi there, I'm Aryaman Agarwal 👋
 
-- I am Junior at UW Madison majoring in Computer Science and Economics
+- I am a Junior at UW Madison majoring in Computer Science and Economics
 - I am interested in Back-end development 
 - Currently learning Artificial Intelligence with Python and Machine Organization in C
 - Looking for software development internships for Summer 2022
