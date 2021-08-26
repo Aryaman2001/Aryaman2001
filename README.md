@@ -8,5 +8,5 @@
 
 ### Connect with me:
 
-- 🔭 LinkedIn: https://www.linkedin.com/in/aryaman-agarwal
-- 🌱 Email Id: agarwal.aryaman59@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aryaman-agarwal
+- Email Id: agarwal.aryaman59@gmail.com
