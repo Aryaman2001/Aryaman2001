@@ -3,7 +3,7 @@
 - I am a Junior at UW Madison majoring in Computer Science and Economics
 - I am interested in Back-end development 
 - Currently learning about Operating Systems and Database Management Systems
-- Looking for software development internships for Summer 2022
+- Looking for software development internships for Summer 2022 and Fall 2022
 - Check out the projects I have worked on in my repositories
 
 ### Connect with me:
